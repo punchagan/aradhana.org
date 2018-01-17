@@ -8,9 +8,10 @@ defaultContentLanguage = "en"
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
-
 # Define the number of posts per page
 paginate = 10
+# CanonifyURLs
+canonifyURLs = true
 
 [menu]
 
