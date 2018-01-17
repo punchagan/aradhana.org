@@ -55,21 +55,6 @@ canonifyURLs = true
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "default"
 
-    # Since this template is static, the contact form uses www.formspree.io as a
-    # proxy. The form makes a POST request to their servers to send the actual
-    # email. Visitors can send up to a 1000 emails each month for free.
-    #
-    # What you need to do for the setup?
-    #
-    # - set your email address under 'email' below
-    # - upload the generated site to your server
-    # - send a dummy email yourself to confirm your account
-    # - click the confirm link in the email from www.formspree.io
-    # - you're done. Happy mailing!
-    #
-    # Enable the contact form by entering your Formspree.io email
-    email = "your@email.com"
-
     about_us = "<p>The Cleveland Thyagaraja Festival is the largest Indian classical music festival outside of India. It was first celebrated in 1978 and has now grown to be a 12-day festival with more than 8,000 attendees with 2,000 appearing for the opening weekend. The year 2018 is the Festival's 41th year.</p>"
     copyright = "Copyright (c) 2018, Aradhana Committee; all rights reserved."
 
