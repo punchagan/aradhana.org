@@ -29,8 +29,7 @@ canonifyURLs = true
 
 [[menu.main]]
     name = "Sustaining Sampradaya"
-    identifier = "faq"
-    url  = "/faq/"
+    url  = "/ss/"
     weight = 3
 
 [[menu.main]]
