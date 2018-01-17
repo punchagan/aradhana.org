@@ -1,0 +1,21 @@
+git:
+  depth: 10
+
+branches:
+  only:
+    - master
+
+cache:
+  directories:
+    - $HOME/downloads
+
+install:
+  - mkdir -p $HOME/downloads
+  - pushd $HOME/downloads
+  - wget --quiet -c https://github.com/gohugoio/hugo/releases/download/v0.32.4/hugo_0.32.4_Linux-64bit.deb
+  - sudo dpkg -i hugo_0.32.4_Linux-64bit.deb
+  - popd
+
+# Build the website
+script:
+  - ./deploy.sh
