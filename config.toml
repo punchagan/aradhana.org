@@ -70,24 +70,19 @@ canonifyURLs = true
     # Enable the contact form by entering your Formspree.io email
     email = "your@email.com"
 
-    about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
-    copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
+    about_us = "<p>The Cleveland Thyagaraja Festival is the largest Indian classical music festival outside of India. It was first celebrated in 1978 and has now grown to be a 12-day festival with more than 8,000 attendees with 2,000 appearing for the opening weekend. The year 2018 is the Festival's 41th year.</p>"
+    copyright = "Copyright (c) 2018, Aradhana Committee; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
     logo = "img/logo.png"
-    address = """<p><strong>Universal Ltd.</strong>
-        <br>13/25 New Avenue
-        <br>Newtown upon River
-        <br>45Y 73J
-        <br>England
-        <br>
-        <strong>Great Britain</strong>
-      </p>
-      """
-    latitude = "-12.043333"
-    longitude = "-77.028333"
+    address = """<p><strong>Aradhana Committee</strong>
+            <br/>3447 Granton Ave
+            <br/>Cleveland OH 44111-2971
+            <br/><strong>USA</strong></p><br/>"""
+    latitude = "41.45843"
+    longitude = "-81.8088907"
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
