@@ -43,11 +43,13 @@ canonifyURLs = true
     url  = "/buy-tickets/"
     weight = 5
 
+[author]
+    name = "Aradhana Committee"
+
 [params]
     viewMorePostLink = "/blog/"
-    author = "DevCows"
-    defaultKeywords = ["devows", "hugo", "go"]
-    defaultDescription = "Site template made by devcows using hugo"
+    defaultKeywords = ["cleveland", "thyagaraja", "festival", "aradhana", "music festival", "carnatic music"]
+    defaultDescription = "Cleveland Thyagaraja Festival"
 
     # Google Maps API key (if not set will default to not passing a key.)
     googleMapsApiKey = "AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y"
