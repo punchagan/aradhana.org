@@ -1,0 +1,31 @@
+images_1:
+  - weight: 1
+    description: "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>"
+    image: "img/carousel/competitions_banner.jpg"
+    url: "#"
+  - weight: 2
+    description: >
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    image: "img/carousel/schedule_banner.jpg"
+    url: "#"
+  - weight: 3
+    description: >
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    image: "img/carousel/dance_banner.jpg"
+    url: "#"
+
+images_2:
+  - weight: 1
+    description: "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>"
+    image: "img/carousel/competitions_banner.jpg"
+    url: "#"
+  - weight: 2
+    description: >
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    image: "img/carousel/schedule_banner.jpg"
+    url: "#"
+  - weight: 3
+    description: >
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    image: "img/carousel/dance_banner.jpg"
+    url: "#"
