@@ -140,7 +140,7 @@ canonifyURLs = true
     subtitle = "Coming Soon..."
     link_url = "#"
     link_text = "Sustaining Sampradaya"
-    image = "img/carousel/aboutus_banner.jpg"
+    image = "img/features/aboutus_banner.jpg"
 
 [params.clients]
     enable = false
