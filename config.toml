@@ -19,27 +19,27 @@ canonifyURLs = true
 
 [[menu.main]]
     name = "Heritage"
-    url  = "/heritage/"
+    url  = "#"
     weight = 1
 
 [[menu.main]]
     name = "Agenda"
-    url  = "/agenda/"
+    url  = "#"
     weight = 2
 
 [[menu.main]]
     name = "Sustaining Sampradaya"
-    url  = "/ss/"
+    url  = "#"
     weight = 3
 
 [[menu.main]]
     name = "Partner"
-    url  = "/partner/"
+    url  = "#"
     weight = 4
 
 [[menu.main]]
     name = "Buy Tickets"
-    url  = "/buy-tickets/"
+    url  = "#"
     weight = 5
 
 [author]
