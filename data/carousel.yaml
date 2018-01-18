@@ -1,31 +1,36 @@
 images_1:
   - weight: 1
     description: "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>"
-    image: "img/carousel/competitions_banner.jpg"
+    image: "img/carousel/dancer.jpg"
+    position: "left 25%"
     url: "#"
   - weight: 2
     description: >
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-    image: "img/carousel/schedule_banner.jpg"
+    image: "img/carousel/music-full-of-life.jpg"
+    position: "left 40%"
     url: "#"
   - weight: 3
     description: >
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-    image: "img/carousel/dance_banner.jpg"
+    image: "img/carousel/bmk-sudha.jpg"
+    position: "top 10% left 10%"
     url: "#"
 
 images_2:
   - weight: 1
     description: "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>"
-    image: "img/carousel/competitions_banner.jpg"
+    image: "img/carousel/perfect-note-to-self.jpg"
     url: "#"
   - weight: 2
     description: >
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-    image: "img/carousel/schedule_banner.jpg"
+    image: "img/carousel/live-the-live.jpg"
+    position: "center"
     url: "#"
   - weight: 3
     description: >
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-    image: "img/carousel/dance_banner.jpg"
+    image: "img/carousel/singers-audience.jpg"
+    position: "center"
     url: "#"
