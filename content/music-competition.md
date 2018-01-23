@@ -1,6 +1,5 @@
 +++
 title = "The T. Temple Tuttle Memorial Music Competition"
-author = ["punchagan"]
 draft = false
 +++
 

@@ -133,4 +133,5 @@ Get your tickets /here/
 * COMMENT Local Variables
 # Local Variables:
 # org-hugo-allow-export-after-save: t
+# org-export-with-author: nil
 # End:

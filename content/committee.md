@@ -1,6 +1,5 @@
 +++
 title = "Committee"
-author = ["Puneeth Chaganti"]
 draft = false
 +++
 

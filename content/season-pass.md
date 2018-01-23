@@ -1,6 +1,5 @@
 +++
 title = "Season Pass"
-author = ["punchagan"]
 draft = false
 +++
 
