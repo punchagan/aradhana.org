@@ -10,13 +10,10 @@ cache:
     - $HOME/downloads
 
 install:
-  - mkdir -p $HOME/downloads
-  - pushd $HOME/downloads
-  - wget --quiet -c https://github.com/gohugoio/hugo/releases/download/v0.32.4/hugo_0.32.4_Linux-64bit.deb
-  - sudo dpkg -i hugo_0.32.4_Linux-64bit.deb
-  - popd
-  - mkdir themes/
-  - git clone https://github.com/punchagan/hugo-universal-theme.git themes/custom
+  - ./setup-travis.sh
+
+before_script:
+  - $HOME/bin/tmp/emacs/bin/emacs -q -Q -l init.el
 
 # Build the website
 script:
