@@ -1,4 +1,0 @@
-+++
-title = "Artists"
-draft = false
-+++

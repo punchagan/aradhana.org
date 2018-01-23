@@ -1,4 +1,0 @@
-+++
-title = "Pancharatnam"
-draft = false
-+++
