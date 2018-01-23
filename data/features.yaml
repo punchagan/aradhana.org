@@ -2,34 +2,34 @@ items_1:
   - weight: 1
     name: "Music Competition"
     image: img/features/aboutus_banner.jpg
-    url: "#"
+    url: "music-competition"
   - weight: 2
     name: "Pancharatnam"
     image: img/features/aboutus_banner.jpg
-    url: "#"
+    url: "pancharatnam"
   - weight: 3
     name: "Partner"
     image: img/features/aboutus_banner.jpg
-    url: "#"
+    url: "partnerships"
   - weight: 4
     name: "Season Pass"
     image: img/features/aboutus_banner.jpg
-    url: "#"
+    url: "season-pass"
 
 items_2:
   - weight: 1
     name: "Artists"
     image: img/features/aboutus_banner.jpg
-    url: "#"
+    url: "artists"
   - weight: 2
     name: "Home Coming"
     image: img/features/aboutus_banner.jpg
-    url: "#"
+    url: "home-coming"
   - weight: 3
     name: "Srinivasa Kalyanam"
     image: img/features/aboutus_banner.jpg
-    url: "#"
+    url: "srinivasa-kalyanam"
   - weight: 4
     name: "Committee"
     image: img/features/aboutus_banner.jpg
-    url: "#"
+    url: "committee"
