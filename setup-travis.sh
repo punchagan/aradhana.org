@@ -6,10 +6,7 @@ wget -q -c https://github.com/npostavs/emacs-travis/releases/download/bins/emacs
 popd
 
 # Setup Emacs
-mkdir -p $HOME/bin
-pushd $HOME/bin
-tar xf $HOME/downloads/emacs-bin-26.tar.gz
-popd
+tar xf $HOME/downloads/emacs-bin-26.tar.gz -C /
 
 # Setup Hugo
 sudo dpkg -i $HOME/downloads/hugo_0.32.4_Linux-64bit.deb

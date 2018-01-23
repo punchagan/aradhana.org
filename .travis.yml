@@ -17,7 +17,7 @@ install:
   - ./setup-travis.sh
 
 before_script:
-  - $HOME/bin/tmp/emacs/bin/emacs -q -Q -l init.el
+  - /tmp/emacs/bin/emacs --batch -q -Q -l init.el
 
 # Build the website
 script:
