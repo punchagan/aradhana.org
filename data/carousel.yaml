@@ -1,20 +1,20 @@
 images_1:
   - weight: 1
+    title: The greatest celebration of Indian Art, Culture and Heritage
     description: >
-      <p>The greatest celebration of Indian Art, Culture and Heritage. No kidding.</p>
       <p>28 March — 8 April, 2018. Cleveland, OH, United States.</p>
     image: "img/carousel/music-full-of-life.jpg"
     position: "left 40%"
     url: "#"
   - weight: 2
-    description: >
-      <p>Endaro Mahanubhavulu. <br />Andariki Vandanamulu.</p>
+    title: Endaro Mahanubhavulu. Andariki Vandanamulu.
+    description: ""
     image: "img/carousel/bmk-sudha.jpg"
     position: "top 10% left 10%"
     url: "#"
   - weight: 3
+    title: Original Art Work
     description: >
-      <p>Original Art Work.</p>
       <p>Subtle. Sensual. Sensational.</p>
     image: "img/carousel/dancer.jpg"
     position: "left 25%"
@@ -22,19 +22,22 @@ images_1:
 
 images_2:
   - weight: 1
+    title: A perfect note to the self
     description: >
-      <p>A perfect note to the Self. A musing with the Self.</p>
+      <p>A musing with the self.</p>
     image: "img/carousel/perfect-note-to-self.jpg"
     url: "#"
   - weight: 2
+    title: Music full of life. Life full of music.
     description: >
-      <p>Music full of life. Life full of music. Make no mistake.</p>
+      <p>Make no mistake.</p>
     image: "img/carousel/singers-audience.jpg"
     position: "center"
     url: "#"
   - weight: 3
+    title: Live the Live
     description: >
-      <p>Live the Live. <br />It takes a rasika to be here!</p>
+      <p>It takes a rasika to be here!</p>
     image: "img/carousel/live-the-live.jpg"
     position: "center"
     url: "#"
