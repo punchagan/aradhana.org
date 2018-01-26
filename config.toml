@@ -140,7 +140,8 @@ relativeURLs = true
     subtitle = "Coming Soon..."
     link_url = "#"
     link_text = "Sustaining Sampradaya"
-    image = "img/features/aboutus_banner.jpg"
+    image = "img/features/sustaining-sampradaya.jpg"
+    image_position = "right 75%"
 
 [params.clients]
     enable = false
