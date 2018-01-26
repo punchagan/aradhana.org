@@ -3,20 +3,19 @@ images_1:
     title: The greatest celebration of Indian Art, Culture and Heritage
     description: >
       <p>28 March — 8 April, 2018. Cleveland, OH, United States.</p>
-    image: "img/carousel/music-full-of-life.jpg"
-    position: "left 40%"
+    image: "img/carousel/greatest-celebration.jpg"
+    position: "left 5%"
     url: "#"
   - weight: 2
     title: Endaro Mahanubhavulu. Andariki Vandanamulu.
     description: ""
-    image: "img/carousel/bmk-sudha.jpg"
-    position: "top 10% left 10%"
+    image: "img/carousel/endaro-mahanubhavulu.jpg"
     url: "#"
   - weight: 3
     title: Original Art Work
     description: >
       <p>Subtle. Sensual. Sensational.</p>
-    image: "img/carousel/dancer.jpg"
+    image: "img/carousel/sensual.jpg"
     position: "left 25%"
     url: "#"
 
@@ -31,7 +30,7 @@ images_2:
     title: Music full of life. Life full of music.
     description: >
       <p>Make no mistake.</p>
-    image: "img/carousel/singers-audience.jpg"
+    image: "img/carousel/music-full-of-life.jpg"
     position: "center"
     url: "#"
   - weight: 3
